@@ -8,6 +8,6 @@ Apartados de la entrega:
 - [x] **Realización de caso de uso - análisis** para, realizar pedido y descargar álbum.
 - [x] **Propuesta de diseño de la arquitectura del sistema**: decisión de MVC junto con patrón capas para máquina y patron multiples vistas para web, acabar de refinar. 
 - [ ] **Argumentar la propuesta anterior**. 
-- [x] **Diagrama de paquetes**.
+- [x] **Diagrama de paquetes**: No hay que profundizar mucho, solo dependencias entre paquetes.
 - [ ] **Diagrama de despliegue**. 
 - [ ] **Realización de caso de uso - diseño** para, crear disco. 
