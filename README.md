@@ -11,4 +11,4 @@ Apartados de la entrega:
 - [x] **Diagrama de paquetes**: No hay que profundizar mucho, solo dependencias entre paquetes.
 - [ ] **Diagrama de despliegue**. 
 - [ ] **Realización de caso de uso - diseño** para, crear disco. 
-- [ ] **Empezar el informe**: Marqués, pide un PDF como entrega final, no un prycto astah. 
+- [ ] **Empezar el informe**: Marqués, pide un PDF como entrega final, no un pryecto astah. 
