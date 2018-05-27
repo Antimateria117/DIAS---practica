@@ -24,4 +24,4 @@ Mirar el modelo BCE que de las transparencias, tema 2, diapositiva [120] en adel
 
 En la realización de los casos de uso, en análisis hay que poner también el diagrama de objetos participantes (en las transparencias de Marqués viene como ejemplo).
 
-Overleaf: https://www.overleaf.com/16415932rwbfdwnfdqwb
+Overleaf: https://v2.overleaf.com/2389371832cjnkxshdkvrs
