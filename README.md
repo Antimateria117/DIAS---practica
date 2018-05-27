@@ -8,4 +8,5 @@ Enlace al informe de la práctica [Overleaf - DIAS](https://v2.overleaf.com/2389
 - [ ] Cambiar la interacción entre paquetes a llamadas a interfaces.
 - [ ] Cambiar los gateways del TDG a creates en el diagrama de secuencia - diseño. 
 - [ ] Revisar los diagramas de análisis. 
+- [ ] Cambiar el TDG a RDG para traer solo las canciones por partes.
 
